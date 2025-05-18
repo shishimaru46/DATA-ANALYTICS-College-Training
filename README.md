@@ -50,9 +50,6 @@ Summary of findings and key insights
 
 
 
-🧾 How to Run
-Clone this repository:
-git clone https://github.com/your-username/your-repo-name.git
 
 Open the Jupyter Notebook:
 EDA_Project.ipynb
